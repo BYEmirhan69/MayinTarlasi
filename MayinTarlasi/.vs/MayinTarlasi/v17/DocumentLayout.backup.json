@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emirhan\\Desktop\\projeler\\MayinTarlasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF311F1E-FBBE-45C2-AFFD-465E86F2F4D0}|MayinTarlasi\\MayinTarlasi.csproj|c:\\users\\emirhan\\desktop\\projeler\\mayintarlasi\\mayintarlasi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF311F1E-FBBE-45C2-AFFD-465E86F2F4D0}|MayinTarlasi\\MayinTarlasi.csproj|solutionrelative:mayintarlasi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF311F1E-FBBE-45C2-AFFD-465E86F2F4D0}|MayinTarlasi\\MayinTarlasi.csproj|c:\\users\\emirhan\\desktop\\projeler\\mayintarlasi\\mayintarlasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF311F1E-FBBE-45C2-AFFD-465E86F2F4D0}|MayinTarlasi\\MayinTarlasi.csproj|solutionrelative:mayintarlasi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF311F1E-FBBE-45C2-AFFD-465E86F2F4D0}|MayinTarlasi\\MayinTarlasi.csproj|c:\\users\\emirhan\\desktop\\projeler\\mayintarlasi\\mayintarlasi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF311F1E-FBBE-45C2-AFFD-465E86F2F4D0}|MayinTarlasi\\MayinTarlasi.csproj|solutionrelative:mayintarlasi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\projeler\\MayinTarlasi\\MayinTarlasi\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "MayinTarlasi\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\projeler\\MayinTarlasi\\MayinTarlasi\\Form1.Designer.cs*",
+              "RelativeToolTip": "MayinTarlasi\\Form1.Designer.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T01:57:04.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\projeler\\MayinTarlasi\\MayinTarlasi\\Form2.cs",
+              "RelativeDocumentMoniker": "MayinTarlasi\\Form2.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\projeler\\MayinTarlasi\\MayinTarlasi\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "MayinTarlasi\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T01:56:58.384Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Emirhan\\Desktop\\projeler\\MayinTarlasi\\MayinTarlasi\\Form1.cs",
+              "RelativeDocumentMoniker": "MayinTarlasi\\Form1.cs",
+              "ToolTip": "C:\\Users\\Emirhan\\Desktop\\projeler\\MayinTarlasi\\MayinTarlasi\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "MayinTarlasi\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T01:56:56.167Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
